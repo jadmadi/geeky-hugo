@@ -2,7 +2,6 @@
 categories = ["category test"]
 date = ""
 description = "Blog post description"
-draft = true
 image = "/images/icons8-oud-100.png"
 post = "Post text blah "
 title = "Testing new blog post"
