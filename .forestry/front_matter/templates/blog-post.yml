@@ -29,3 +29,5 @@ fields:
     schema:
       format: markdown
   label: Post
+pages:
+- exampleSite/content/english/blog/testing-new-blog-post.md
