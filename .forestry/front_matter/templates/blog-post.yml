@@ -20,3 +20,12 @@ fields:
 - type: text
   name: type
   label: type
+- name: post
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Post
